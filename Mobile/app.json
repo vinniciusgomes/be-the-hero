@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Be The Hero",
+    "slug": "bethehero",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e02041"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Semana Omnistack 11 - O objetivo era criar uma aplicação chamada Be The Hero, onde ONGS cadastram seus casos para que pessoas possam acha-los facilmente e entrar em contato para doar, tornando-se heróis!",
+    "githubUrl": "https://github.com/vinniciusgomes/be-the-hero"
+  }
+}
