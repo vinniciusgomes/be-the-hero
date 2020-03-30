@@ -33,7 +33,6 @@ Extras:
 - Main Libs
   - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
-  - [Toast Notification](https://github.com/jossmac/react-toast-notifications)
 - Estilos
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
@@ -54,8 +53,8 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com ❤️ by **Rocketseat/mpgxc**
+Feito com ❤️ by **Rocketseat/Vinnicius Gomes**
