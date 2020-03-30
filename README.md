@@ -33,7 +33,6 @@ Extras:
 - Main Libs
   - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
-  - [Toast Notification](https://github.com/jossmac/react-toast-notifications)
 - Estilos
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
@@ -58,4 +57,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ❤️ by **Rocketseat/mpgxc**
+Feito com ❤️ by **Rocketseat/Vinnicius Gomes**
