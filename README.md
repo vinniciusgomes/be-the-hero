@@ -71,4 +71,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ by **Rocketseat/Vinnicius Gomes**
+Feito com ♥ by Rocketseat & Vinnicius Gomes
